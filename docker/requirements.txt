@@ -1,0 +1,7 @@
+git+https://github.com/facebookresearch/segment-anything.git
+torch==2.0.0
+torchvision==0.15.1
+opencv-python 
+matplotlib 
+onnxruntime 
+onnx
